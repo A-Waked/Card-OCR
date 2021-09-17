@@ -1,6 +1,3 @@
-# Python bytecode 3.6 (3372)
-# Embedded file name: main.py
-# Decompiled by https://python-decompiler.com
 nltk_packages = [
  'stopwords', 'punkt', 'averaged_perceptron_tagger', 'maxent_ne_chunker', 'words']
 print('Ensuring all packages are up to date...')
